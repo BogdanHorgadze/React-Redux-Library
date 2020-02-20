@@ -1,0 +1,27 @@
+.Content{
+    display: flex;
+    justify-content: start-end;
+    margin-top: 10px;
+    border:1px solid #d1cfc9;
+}
+
+.Info{
+    margin-left: 50px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    padding-bottom: 5px;
+}
+
+.Button{
+    color:white;
+    background: #d60447;
+    border-radius: 3px;
+    cursor: pointer;
+    border:none;
+    padding: 7px 12px 7px 12px;
+}
+
+.Title{
+    line-height: 30px;
+}
